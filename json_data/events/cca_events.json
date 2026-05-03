@@ -4,6 +4,7 @@
   "subtitle": "4:00 PM - 4:45 PM",
   "endText": "End of Session 1",
   "location": "LT5",
+  "location_id": "LT5",
   "events": [
     {
       "time": "1600",
