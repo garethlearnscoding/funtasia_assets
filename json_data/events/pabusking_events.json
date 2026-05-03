@@ -2,7 +2,8 @@
   "title": "Busking @ Linkway",
   "subtitle": "Busking performances by local performers!",
   "endText": "End of Performances",
-  "location": "Busking @ Linkway",
+  "location": "Linkway",
+  "location_id": "o2",
   "events": [
     {
       "time": "1630",
