@@ -23,12 +23,12 @@
       "title": "Nunyuh Business",
       "link": {"link": "https://www.instagram.com/its.nunyuhbusiness/", "text": "Instagram"},
       "songs": [
-        { "title": "That Should Be Me", "author": "Justin Bieber" },
-        { "title": "Sorry",             "author": "Justin Bieber", "__comment__": "is it too late now to say sorry" },
-        { "title": "Yummy",             "author": "Justin Bieber" },
+        { "title": "That Should Be Me",    "author": "Justin Bieber" },
+        { "title": "Sorry",                "author": "Justin Bieber", "__comment__": "is it too late now to say sorry" },
         { "title": "One Less Lonely Girl", "author": "Justin Bieber" },
-        { "title": "Baby",              "author": "Justin Bieber" },
-        { "title": "Daisies",           "author": "Justin Bieber" }
+        { "title": "Beauty and a Beat",    "author": "Justin Bieber" },
+        { "title": "Baby",                 "author": "Justin Bieber" },
+        { "title": "Daisies",              "author": "Justin Bieber" }
       ]
     },
     {
@@ -65,7 +65,7 @@
         { "title": "September",         "author": "Earth, Wind and Fire"     },
         { "title": "Everybody Talks",   "author": "The Neon Trees"           },
         { "title": "Shut Up And Dance", "author": "Walk The Moon"            },
-        { "title": "Try Everything", "author": "Shakira"            }
+        { "title": "Try Everything",    "author": "Shakira"                  }
       ]
     },
     {
@@ -82,6 +82,7 @@
     {
       "time": "1920",
       "title": "Mirage!",
+      "endTime": "1955",
       "songs": [
         { "title": "Helena", "author": "My Chemical Romance" },
         { "title": "Boulevard of Broken Dreams", "author": "Green Day" },
